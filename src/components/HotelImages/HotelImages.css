@@ -1,0 +1,16 @@
+.hotel-image-container{
+   height:25rem;
+}
+.primary-image-container{
+    height: 25rem;
+}
+.hotel-img{
+    width:20vw;
+    height:50%;
+    padding-right: 8px;
+}
+.primary-img{
+    width:40vw;
+    height:100%;
+}
+
